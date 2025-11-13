@@ -2,7 +2,7 @@
 ## NAME: Aravind Kumar SS
 ## REGISTER NUMBER: 212223110004
 ## DEPARTMENT: B.E.CSE(Iot)
-## YEAR: 3nd YEAR
+## YEAR: 3rd YEAR
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
